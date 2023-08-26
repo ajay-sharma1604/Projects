@@ -1,0 +1,17 @@
+
+h1 {
+    font-family: 'Tilt Prism', cursive;
+    color: #FF78C4;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+html,body {
+    height: 100%;
+   
+    background-image: url(cool-background.png);
+  
+}

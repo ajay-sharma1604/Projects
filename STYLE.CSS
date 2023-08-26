@@ -1,0 +1,15 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    text-align: center; 
+    background-color: #faf1e4;
+}
+
+#heading {
+    font-family: 'Black Ops One', cursive;
+}
+
+.input {
+    width: 200px;
+    height: 20px;
+}
+
